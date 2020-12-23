@@ -16,12 +16,13 @@
 
 
 ##Visão Geral
-API	| Descrição |	Corpo da solicitação |	Corpo da resposta |
-GET /api/TodoItems |	Obter todos os itens de tarefas pendentes| Nenhum | Matriz de itens de tarefas pendentes|
-GET /api/TodoItems/{id}	| Obter um item por ID | Nenhum	Item de tarefas pendentes |
-POST /api/TodoItems |	Adicionar um novo item	| Item de tarefas pendentes |	Item de tarefas pendentes|
-PUT /api/TodoItems/{id} |	Atualizar um item   existente	Item de tarefas pendentes |	Nenhum|
-DELETE /api/TodoItems/{id} | Excluir um item | Nenhum	Nenhum|
+API	                       | Descrição                                               |	Corpo da solicitação      |	Corpo da resposta                   |
+:-------:                  |:-------:                                                |:-------:                  | :-------:                           |
+GET /api/TodoItems         |	Obter todos os itens de tarefas pendentes               | Nenhum                    | Matriz de itens de tarefas pendentes|
+GET /api/TodoItems/{id}	   | Obter um item por ID                                    | Nenhum	                   | Item de tarefas pendentes           |
+POST /api/TodoItems        |	Adicionar um novo item	                                 | Item de tarefas pendentes | Item de tarefas pendentes           |
+PUT /api/TodoItems/{id}    |	Atualizar um item   existente	Item de tarefas pendentes |	Nenhum                    | Nenhum                              |
+DELETE /api/TodoItems/{id} | Excluir um item                                         | Nenhum                    | Nenhum                              |
 
 
 ## Foi desenvolvido:
