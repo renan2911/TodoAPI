@@ -26,6 +26,7 @@ DELETE /api/TodoItems/{id} | Excluir um item                                    
 
 
 
+
 ## Foi desenvolvido:
 * Criação de um projeto API Web
 * Criação de uma classe de modelo e um contexto de banco de dados.
@@ -34,10 +35,12 @@ DELETE /api/TodoItems/{id} | Excluir um item                                    
 
 
 
+
 ## Pré-requisitos
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2019) - <strong>com a ASP.net e a carga de trabalho de desenvolvimento Web</strong>
 * [SDK do .NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)<strong></strong>
 * [Entity Framework](https://docs.microsoft.com/pt-br/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-5.0)<strong></strong>
+
 
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/renan2911/usuario.api/issues
