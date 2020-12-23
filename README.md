@@ -25,11 +25,13 @@ PUT /api/TodoItems/{id}    |	Atualizar um item   existente	Item de tarefas pende
 DELETE /api/TodoItems/{id} | Excluir um item                                         | Nenhum                    | Nenhum                              |
 
 
+
 ## Foi desenvolvido:
 * Criação de um projeto API Web
 * Criação de uma classe de modelo e um contexto de banco de dados.
 * Scaffold de um controlador com métodos CRUD.
 * Configuração do roteamento, os caminhos de URL e os valores retornados.
+
 
 
 ## Pré-requisitos
